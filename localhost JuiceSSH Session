@@ -1,0 +1,14 @@
+SSH Session Transcript
+
+Host: localhost
+Date: Tuesday, October 29, 2019
+---------------------------------
+Welcome to Kali in UserLAnd!
+dblock@localhost:~$ Pothead@420
+-bash: Pothead@420: command not found
+dblock@localhost:~$ exit
+logout
+---------------------------------
+
+This transcript has been sent from my Android device with JuiceSSH
+
